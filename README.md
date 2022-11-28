@@ -8,25 +8,13 @@
 
 <div>
 <p>
-Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, Junior em uma linguagem de script(Python) e iniciando a jornada com Html, Css, Js.
+Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, Begginer em uma linguagem de script(Python) e iniciando a jornada com Html, Css, Js.
 </p>
 </div>
 
-
-
-<!-- <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="100"> -->
-
-
-<!-- <a href="https://github.com/Calixto0128">
-  <img src="https://img.shields.io/github/followers?Calixto0128">
-</a>
-<a href="https://github.com/Calixto0128">
-   <img src="https://komarev.com/ghpvc/?username=Calixto0128"
-</a> -->
-
 # -Most used languages 🌐
 
-| [<img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html" width="36">](https://www.w3schools.com/html/default.asp) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Css" width="36">](https://www.w3schools.com/css/default.asp) | 
+| [<img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html" width="36">](https://www.w3schools.com/html/default.asp) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Css" width="36">](https://www.w3schools.com/css/default.asp) | [<img src="https://cdn.nextptr.com/images/tagimages/javascript_logo.png" alt="javaScript" width="38">](https://www.w3schools.com/css/default.asp) |
 
 
 # -Tools 🛠️
@@ -36,7 +24,6 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 <a href="https://www.instagram.com/techcalixto/" target="_black"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@CalixtoTech-blue?style=flat&logo=instagram">
 <a href="https://www.linkedin.com/in/m%C3%A1rcio-calisto-9a2071207/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MárcioCalisto-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:calistomarcio6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-calistomarcio6@gmail.com-blue?style=flat&logo=gmail"></a>
-
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
