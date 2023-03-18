@@ -21,7 +21,7 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="36">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="36">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="36">](https://www.jetbrains.com/pt-br/pycharm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="36">](https://code.visualstudio.com/) | many more... 
 
-<a href="https://www.instagram.com/techcalixto/" target="_black"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@CalixtoTech-blue?style=flat&logo=instagram">
+<a href="https://www.instagram.com/__.cxlt/" target="_black"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@CalixtoTech-blue?style=flat&logo=instagram">
 <a href="https://www.linkedin.com/in/m%C3%A1rcio-calisto-9a2071207/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MárcioCalisto-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:calistomarcio6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-calistomarcio6@gmail.com-blue?style=flat&logo=gmail"></a>
 
