@@ -23,8 +23,8 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 <div>
 	<a href="https://github.com/ClxtMf">
-	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClxtMf &count_private=true&theme=github_dark_dimmed&show_icons=true"/>
-	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClxtMf&layout=compact&theme=github_dark_dimmed&langs_count=10"/>
+	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClxtMf &count_private=true&theme=github_dark&show_icons=true"/>
+	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClxtMf&layout=compact&theme=github_dark&langs_count=10"/>
 </div>
 
 
