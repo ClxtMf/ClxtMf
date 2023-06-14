@@ -8,23 +8,18 @@
 
 <div>
 <p>
-Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, Begginer em uma linguagem de script(Python) e iniciando a jornada com Html, Css, Js.
+Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, Begginer em uma linguagem de script(Python) e iniciando a jornada com Java.
 </p>
 </div>
 
 # -Most used languages 🌐
 
-| [<img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html" width="36">](https://www.w3schools.com/html/default.asp) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Css" width="36">](https://www.w3schools.com/css/default.asp) | [<img src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png" alt="javaScript" width="32">](https://www.w3schools.com/css/default.asp) |
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100">](https://www.python.org/) [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60">](https://www.w3schools.com/css/default.asp)   [<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Html" width="80">](https://www.w3schools.com/html/default.asp) [<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Css" width="69">](https://www.w3schools.com/css/default.asp) [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javaScript" width="130">](https://www.w3schools.com/css/default.asp) 
 
 
 # -Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="36">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="36">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="36">](https://www.jetbrains.com/pt-br/pycharm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="36">](https://code.visualstudio.com/) | many more... 
+[<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="93">](https://www.mysql.com/) [<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="70">](https://git-scm.com/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="Pycharm" width="36">](https://www.jetbrains.com/pt-br/pycharm/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="36">](https://code.visualstudio.com/) | many more... 
 
-<div>
-	<a href="https://github.com/ClxtMf">
-	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ClxtMf &count_private=true&theme=github_dark&show_icons=true"/>
-	<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ClxtMf&layout=compact&theme=github_dark&langs_count=10"/>
-</div>
-
-
+# -DashBoard 📊
+[![ClxtMf](https://github-readme-stats.vercel.app/api/top-langs/?username=ClxtMf&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
