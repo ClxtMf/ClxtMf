@@ -8,7 +8,7 @@
 
 <div>
 <p>
-Sou um Desenvolvedor BackEnd de nível intermediário capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento BackEnd. Aprendo rápido, trabalho duro e em equipe, Begginer em uma linguagem de script(Python) e iniciando a jornada com Java.
+Sou um Desenvolvedor BackEnd de nível intermediário capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento BackEnd. Aprendo rápido, trabalho duro e em equipe, intermediary em uma linguagem de script(Python) e iniciando a jornada com Java.
 </p>
 </div>
 
